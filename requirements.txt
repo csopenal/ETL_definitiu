@@ -1,0 +1,11 @@
+# Comando de instalación:
+# pip install -r requirements.txt
+
+# Para conexión con APIs (HTTP requests)
+requests
+
+# Para análisis de datos (DataFrames, cálculos)
+pandas
+
+# Para visualización de datos (Gráficos y Mapas)
+matplotlib
